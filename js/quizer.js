@@ -747,7 +747,7 @@ function setup(){
 	setMedia = setAudio;
 	rightAnswer = rightAnswer_RU;
 	count_time();
-	package_names = ru_1970_gr_icon;
+	package_names = ru_1970_m_icon;
 	show_packages(package_names.length);
 	document.body.scrollTop = document.documentElement.scrollTop = 0;
 	useUrlParam();
